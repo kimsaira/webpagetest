@@ -1,0 +1,73 @@
+/* *{
+    border:1px solid red;
+} */
+
+body{
+    margin: 0;
+}
+
+nav {
+    background-color: lightGray;
+}
+
+.navButton {
+    display: inline-block;
+    background-color: #454545;
+    color: white;
+    font-family: Helvetica, sans-serif;
+    font-size: 12px;
+    width: 100px;
+    height: 54px;
+    text-align: center;
+    line-height: 25px;
+    margin: -1px;
+
+
+}
+
+
+#leftColumn {
+    float: left;
+    width: 29%;
+    height: 780px;
+    background-color: blue;
+    margin: 0;
+    text-align: center;
+}
+
+#petName {
+    margin-left:25px;
+}
+
+#shrek{
+    width:100px;
+    margin-left: 25px;
+    margin-top:25px;
+}
+
+
+
+#main {
+float: right;
+width: 70%;
+height: 700px;
+background-color: cadetBlue;
+
+}
+
+#shrek2{
+    width: 100px;
+    text-align: center;
+}
+
+.imageDiv{
+    background-color: orange;
+    height: 200px;
+}
+
+.listDiv {
+    background-color: orangered;
+    height: 400px;
+    margin-top: -20px;
+    padding: 50px; 
+}
